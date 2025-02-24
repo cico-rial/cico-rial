@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there! 👋
+Thank you for visiting my profile :)  
+I'm currently updating it, so you might find it a little messy 🙊
 
+- 🌱 I’m currently studying foundations and state-of-the-art models for Computer Vision
+- 👯 I’m looking for internships in the AI field.
 <!--
 **cico-rial/cico-rial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
