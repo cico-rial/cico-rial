@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub!  
 
 ## ⚠️ Work in Progress 🙉   
-🔧 My GitHub is currently being updated, so things might look **a bit chaotic**. Expect new projects, improvements, and better organization soon!  
+🔧 My GitHub is currently being updated, so things might look **a bit empty**. Expect new projects, improvements, and better organization very soon!  
 
 ## 💡 About Me  
 I am an AI student @ Università di Bolgona, passionate about **deep learning, natural language processing and computer vision**. I enjoy exploring cutting-edge AI technologies and applying them to real-world problems. Currently, I am seeking an **AI internship** to expand my skills and gain hands-on industry experience.  
