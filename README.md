@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!  
 
-## ⚠️ Work in Progress!  
+## ⚠️ Work in Progress :(  
 🔧 My GitHub is currently being updated, so things might look **a bit chaotic**. Expect new projects, improvements, and better organization soon!  
 
 ## 💡 About Me  
