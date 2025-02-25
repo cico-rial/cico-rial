@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!  
 
-## ⚠️ Work in Progress :(  
+## ⚠️ Work in Progress 🙉   
 🔧 My GitHub is currently being updated, so things might look **a bit chaotic**. Expect new projects, improvements, and better organization soon!  
 
 ## 💡 About Me  
@@ -26,26 +26,3 @@ I am an AI student @ Università di Bolgona, passionate about **deep learning, n
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/leonardo-chiarioni-0aa82521a/)  
 [![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=gmail)](mailto:leonardochiarioni72@gmail.com)  
-
-
-<!--
-## Hi there! 👋
-Thank you for visiting my profile :)  
-I'm currently updating it, so you might find it a little messy 🙊
-
-- 🌱 I’m currently studying foundations and state-of-the-art models for Computer Vision
-- 👯 I’m looking for internships in the AI field.
-<!--
-**cico-rial/cico-rial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
