@@ -4,7 +4,7 @@
 🔧 My GitHub is currently being updated, so things might look **a bit empty**. Expect new projects, improvements, and better organization very soon!  
 
 ## 💡 About Me  
-I am an AI student @ Università di Bolgona, passionate about **deep learning, natural language processing and computer vision**. I enjoy exploring cutting-edge AI technologies and applying them to real-world problems. Currently, I am seeking an **AI internship** to expand my skills and gain hands-on industry experience.  
+I am an AI student @ Università di Bologna, passionate about **deep learning, natural language processing and computer vision**. I enjoy exploring cutting-edge AI technologies and applying them to real-world problems. Currently, I am seeking an **AI internship** to expand my skills and gain hands-on industry experience.  
 
 ## 🚀 What I Do at Uni  
 - 📊 **Natural Language Processing (NLP)** – Working on text processing, embeddings, and transformer models.  
