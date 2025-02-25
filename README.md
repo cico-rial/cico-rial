@@ -19,7 +19,7 @@ I am an AI student @ Università di Bologna, passionate about **deep learning, n
 - **NLP:** Transformers, word embeddings, text classification  
 - **Computer Vision:** CNNs, image segmentation, superimposed image decomposition  
 - **Data Handling:** NumPy, Pandas, scikit-learn  
-- **Tools:** Git, Docker  
+- **Tools:** Git, Docker, MongoDB
 
 ## 🌍 Let's Connect!  
 📧 Feel free to reach out for collaborations, AI discussions, or internship opportunities!  
