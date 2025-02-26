@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub!  
+# Welcome to My GitHub!  
 
 ## ⚠️ Work in Progress 🙉   
 🔧 My GitHub is currently being updated, so things might look **a bit empty**. Expect new projects, improvements, and better organization very soon!  
